@@ -1,0 +1,8 @@
+*.pyc
+*.so
+*.pyd
+*~
+.#*
+*.lprof
+*.swp
+*.swo
